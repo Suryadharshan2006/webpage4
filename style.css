@@ -1,0 +1,99 @@
+.home{
+    background-color: rgb(201, 171, 171);
+}
+.logo img{
+    height: 70px;
+    margin-top: 10px;
+}
+.logo img{
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.navlinks{
+    background-color: rgb(12, 11, 11);
+    height: 90px;
+    width: 100%;
+    list-style: none;
+}
+.navlinks ul{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    align-items: center;
+    padding-left: 45%;
+    justify-content: space-between;
+}
+.navlinks ul li a{
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 34px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+.main img{
+    height: 177px;
+    margin-left: 3px;
+    margin-top: 26px;
+    padding: 120px;
+}
+.main{
+    flex-wrap: wrap;
+}
+.shoes2 img{
+     height: 200px;
+     margin-left:32%;
+}
+.shoes3 img{
+    height: 200px;
+    margin-left: 24%;
+}
+.menu img{
+    height: 70px;
+    margin-top: 10px;
+}
+.menu img{
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.menu{
+    background-color: rgb(12, 11, 11);
+    height: 90px;
+    width: 100%;
+    list-style: none;
+}
+.menu ul{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    align-items: center;
+    padding-left: 55%;
+    justify-content: space-between;
+}
+.menu ul li a{
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 34px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+h6{
+    color: white;
+    margin-top: 75px;
+    margin-right: 15px;
+}
+
+
+
+
+
